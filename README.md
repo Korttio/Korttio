@@ -1,5 +1,5 @@
 # Hello! Welcome to my Github profile.
-## I'm Kelly and I'm 18 years old
+I'm Kelly and I'm 18 years old
 
 I’m currently learning Javascript
 
@@ -14,3 +14,10 @@ I’m currently learning Javascript
 <a href = "mailto:ks4360943@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="www.linkedin.com/in/kelly-silva-72a04625a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+  ## My Skills:
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
+          
+          

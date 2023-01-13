@@ -3,6 +3,7 @@ I'm Kelly and I'm 18 years old
 
 I’m currently learning Javascript
 
+
 <div>
 <a href="https://github.com/Korttio">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=korttio&layout=compact&langs_count=7&theme=dracula"/>

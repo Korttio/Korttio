@@ -1,5 +1,5 @@
 # Hello! Welcome to my Github profile.
-I'm Kelly and I'm 18 years old
+I'm Kelly and I'm 19 years old
 
 I’m currently learning Javascript
 
